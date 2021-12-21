@@ -1,0 +1,7 @@
+Objective value = 187.99999999999991
+Taxi 0 visit [0, 7, 14]
+Taxi 1 visit [0, 4, 6, 11, 1, 13, 8]
+Taxi 2 visit [0, 5, 2, 12, 3, 10, 9]
+Problem solved in 78634.000000 milliseconds
+Problem solved in 76676 iterations
+Problem solved in 1126 branch-and-bound nodes

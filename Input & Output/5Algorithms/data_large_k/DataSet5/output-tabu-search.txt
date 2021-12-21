@@ -1,0 +1,51 @@
+Objective: 23518
+Route for vehicle 0:
+ 0 Load(0 and 0) ->  7 Load(1 and 0) ->  19 Load(1 and 23) ->  41 Load(1 and 0) ->  29 Load(0 and 0) ->  0 Load(0 and 0)
+Distance of the route: 186m
+
+Route for vehicle 1:
+ 0 Load(0 and 0) ->  11 Load(0 and 18) ->  8 Load(1 and 18) ->  30 Load(0 and 18) ->  33 Load(0 and 0) ->  0 Load(0 and 0)
+Distance of the route: 215m
+
+Route for vehicle 2:
+ 0 Load(0 and 0) ->  12 Load(0 and 15) ->  20 Load(0 and 28) ->  42 Load(0 and 15) ->  22 Load(0 and 23) ->  44 Load(0 and 15) ->  34 Load(0 and 0) ->  0 Load(0 and 0)
+Distance of the route: 177m
+
+Route for vehicle 3:
+ 0 Load(0 and 0) ->  6 Load(1 and 0) ->  28 Load(0 and 0) ->  10 Load(1 and 0) ->  32 Load(0 and 0) ->  0 Load(0 and 0)
+Distance of the route: 215m
+
+Route for vehicle 4:
+ 0 Load(0 and 0) ->  21 Load(0 and 23) ->  3 Load(1 and 23) ->  25 Load(0 and 23) ->  43 Load(0 and 0) ->  0 Load(0 and 0)
+Distance of the route: 192m
+
+Route for vehicle 5:
+ 0 Load(0 and 0) ->  0 Load(0 and 0)
+Distance of the route: 0m
+
+Route for vehicle 6:
+ 0 Load(0 and 0) ->  9 Load(1 and 0) ->  16 Load(1 and 13) ->  17 Load(1 and 26) ->  31 Load(0 and 26) ->  5 Load(1 and 26) ->  38 Load(1 and 13) ->  39 Load(1 and 0) ->  27 Load(0 and 0) ->  0 Load(0 and 0)
+Distance of the route: 201m
+
+Route for vehicle 7:
+ 0 Load(0 and 0) ->  0 Load(0 and 0)
+Distance of the route: 0m
+
+Route for vehicle 8:
+ 0 Load(0 and 0) ->  14 Load(0 and 9) ->  2 Load(1 and 9) ->  36 Load(1 and 0) ->  24 Load(0 and 0) ->  0 Load(0 and 0)
+Distance of the route: 219m
+
+Route for vehicle 9:
+ 0 Load(0 and 0) ->  0 Load(0 and 0)
+Distance of the route: 0m
+
+Route for vehicle 10:
+ 0 Load(0 and 0) ->  0 Load(0 and 0)
+Distance of the route: 0m
+
+Route for vehicle 11:
+ 0 Load(0 and 0) ->  13 Load(0 and 23) ->  4 Load(1 and 23) ->  35 Load(1 and 0) ->  15 Load(1 and 18) ->  18 Load(1 and 25) ->  37 Load(1 and 7) ->  26 Load(0 and 7) ->  1 Load(1 and 7) ->  40 Load(1 and 0) ->  23 Load(0 and 0) ->  0 Load(0 and 0)
+Distance of the route: 213m
+
+Maximum of all routes: 219
+Problem solved in 125.007885 seconds

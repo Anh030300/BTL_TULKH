@@ -1,0 +1,39 @@
+Objective: 28019
+Route for vehicle 0:
+ 0 Load(0 and 0) ->  4 Load(1 and 0) ->  24 Load(1 and 18) ->  21 Load(1 and 26) ->  62 Load(1 and 18) ->  45 Load(0 and 18) ->  65 Load(0 and 0) ->  0 Load(0 and 0)
+Distance of the route: 249m
+
+Route for vehicle 1:
+ 0 Load(0 and 0) ->  32 Load(0 and 6) ->  30 Load(0 and 29) ->  5 Load(1 and 29) ->  71 Load(1 and 6) ->  26 Load(1 and 24) ->  73 Load(1 and 18) ->  67 Load(1 and 0) ->  46 Load(0 and 0) ->  0 Load(0 and 0)
+Distance of the route: 258m
+
+Route for vehicle 2:
+ 0 Load(0 and 0) ->  6 Load(1 and 0) ->  33 Load(1 and 21) ->  47 Load(0 and 21) ->  7 Load(1 and 21) ->  74 Load(1 and 0) ->  37 Load(1 and 23) ->  78 Load(1 and 0) ->  48 Load(0 and 0) ->  0 Load(0 and 0)
+Distance of the route: 258m
+
+Route for vehicle 3:
+ 0 Load(0 and 0) ->  8 Load(1 and 0) ->  38 Load(1 and 7) ->  31 Load(1 and 27) ->  49 Load(0 and 27) ->  12 Load(1 and 27) ->  53 Load(0 and 27) ->  72 Load(0 and 7) ->  79 Load(0 and 0) ->  18 Load(1 and 0) ->  59 Load(0 and 0) ->  0 Load(0 and 0)
+Distance of the route: 247m
+
+Route for vehicle 4:
+ 0 Load(0 and 0) ->  28 Load(0 and 9) ->  13 Load(1 and 9) ->  54 Load(0 and 9) ->  22 Load(0 and 20) ->  11 Load(1 and 20) ->  63 Load(1 and 9) ->  69 Load(1 and 0) ->  52 Load(0 and 0) ->  0 Load(0 and 0)
+Distance of the route: 248m
+
+Route for vehicle 5:
+ 0 Load(0 and 0) ->  27 Load(0 and 14) ->  19 Load(1 and 14) ->  60 Load(0 and 14) ->  25 Load(0 and 31) ->  66 Load(0 and 14) ->  68 Load(0 and 0) ->  1 Load(1 and 0) ->  42 Load(0 and 0) ->  0 Load(0 and 0)
+Distance of the route: 197m
+
+Route for vehicle 6:
+ 0 Load(0 and 0) ->  29 Load(0 and 14) ->  35 Load(0 and 23) ->  16 Load(1 and 23) ->  70 Load(1 and 9) ->  57 Load(0 and 9) ->  76 Load(0 and 0) ->  20 Load(1 and 0) ->  40 Load(1 and 12) ->  61 Load(0 and 12) ->  81 Load(0 and 0) ->  0 Load(0 and 0)
+Distance of the route: 255m
+
+Route for vehicle 7:
+ 0 Load(0 and 0) ->  39 Load(0 and 17) ->  9 Load(1 and 17) ->  50 Load(0 and 17) ->  41 Load(0 and 26) ->  2 Load(1 and 26) ->  43 Load(0 and 26) ->  80 Load(0 and 9) ->  15 Load(1 and 9) ->  56 Load(0 and 9) ->  82 Load(0 and 0) ->  14 Load(1 and 0) ->  55 Load(0 and 0) ->  0 Load(0 and 0)
+Distance of the route: 252m
+
+Route for vehicle 8:
+ 0 Load(0 and 0) ->  10 Load(1 and 0) ->  23 Load(1 and 7) ->  36 Load(1 and 19) ->  51 Load(0 and 19) ->  77 Load(0 and 7) ->  3 Load(1 and 7) ->  44 Load(0 and 7) ->  17 Load(1 and 7) ->  34 Load(1 and 26) ->  64 Load(1 and 19) ->  75 Load(1 and 0) ->  58 Load(0 and 0) ->  0 Load(0 and 0)
+Distance of the route: 255m
+
+Maximum of all routes: 258
+Problem solved in 1000.008447 seconds

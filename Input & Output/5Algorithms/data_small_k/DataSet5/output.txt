@@ -1,0 +1,3 @@
+Problem solved in 682654.000000 milliseconds
+Problem solved in 39302 iterations
+Problem solved in 31 branch-and-bound nodes

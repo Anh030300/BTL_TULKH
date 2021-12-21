@@ -1,0 +1,11 @@
+Objective: 24663
+Route for vehicle 0:
+ 0 Load(0 and 0) ->  5 Load(0 and 9) ->  10 Load(0 and 0) ->  2 Load(1 and 0) ->  7 Load(0 and 0) ->  0 Load(0 and 0)
+Distance of the route: 221m
+
+Route for vehicle 1:
+ 0 Load(0 and 0) ->  1 Load(1 and 0) ->  6 Load(0 and 0) ->  4 Load(1 and 0) ->  9 Load(0 and 0) ->  3 Load(1 and 0) ->  8 Load(0 and 0) ->  0 Load(0 and 0)
+Distance of the route: 242m
+
+Maximum of all routes: 242
+Problem solved in 8.002763 seconds

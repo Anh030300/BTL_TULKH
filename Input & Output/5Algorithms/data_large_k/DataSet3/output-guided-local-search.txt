@@ -1,0 +1,23 @@
+Objective: 22790
+Route for vehicle 0:
+ 0 Load(0 and 0) ->  5 Load(1 and 0) ->  15 Load(0 and 0) ->  7 Load(0 and 20) ->  17 Load(0 and 0) ->  0 Load(0 and 0)
+Distance of the route: 218m
+
+Route for vehicle 1:
+ 0 Load(0 and 0) ->  8 Load(0 and 19) ->  2 Load(1 and 19) ->  12 Load(0 and 19) ->  6 Load(1 and 19) ->  16 Load(0 and 19) ->  18 Load(0 and 0) ->  0 Load(0 and 0)
+Distance of the route: 217m
+
+Route for vehicle 2:
+ 0 Load(0 and 0) ->  10 Load(0 and 23) ->  1 Load(1 and 23) ->  20 Load(1 and 0) ->  11 Load(0 and 0) ->  0 Load(0 and 0)
+Distance of the route: 206m
+
+Route for vehicle 3:
+ 0 Load(0 and 0) ->  4 Load(1 and 0) ->  9 Load(1 and 23) ->  19 Load(1 and 0) ->  14 Load(0 and 0) ->  0 Load(0 and 0)
+Distance of the route: 192m
+
+Route for vehicle 4:
+ 0 Load(0 and 0) ->  3 Load(1 and 0) ->  13 Load(0 and 0) ->  0 Load(0 and 0)
+Distance of the route: 157m
+
+Maximum of all routes: 218
+Problem solved in 27.004768 seconds

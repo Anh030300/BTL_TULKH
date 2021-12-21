@@ -1,0 +1,19 @@
+Objective: 35171
+Route for vehicle 0:
+ 0 Load(0 and 0) ->  17 Load(0 and 7) ->  8 Load(1 and 7) ->  30 Load(0 and 7) ->  16 Load(0 and 25) ->  12 Load(0 and 30) ->  38 Load(0 and 12) ->  20 Load(0 and 34) ->  9 Load(1 and 34) ->  34 Load(1 and 29) ->  31 Load(0 and 29) ->  42 Load(0 and 7) ->  39 Load(0 and 0) ->  0 Load(0 and 0)
+Distance of the route: 287m
+
+Route for vehicle 1:
+ 0 Load(0 and 0) ->  22 Load(0 and 18) ->  7 Load(1 and 18) ->  44 Load(1 and 0) ->  15 Load(1 and 23) ->  29 Load(0 and 23) ->  21 Load(0 and 29) ->  2 Load(1 and 29) ->  37 Load(1 and 6) ->  43 Load(1 and 0) ->  24 Load(0 and 0) ->  0 Load(0 and 0)
+Distance of the route: 339m
+
+Route for vehicle 2:
+ 0 Load(0 and 0) ->  4 Load(1 and 0) ->  18 Load(1 and 16) ->  26 Load(0 and 16) ->  3 Load(1 and 16) ->  40 Load(1 and 0) ->  19 Load(1 and 12) ->  11 Load(1 and 32) ->  25 Load(0 and 32) ->  1 Load(1 and 32) ->  41 Load(1 and 20) ->  33 Load(1 and 0) ->  23 Load(0 and 0) ->  0 Load(0 and 0)
+Distance of the route: 327m
+
+Route for vehicle 3:
+ 0 Load(0 and 0) ->  5 Load(1 and 0) ->  13 Load(1 and 20) ->  27 Load(0 and 20) ->  10 Load(1 and 20) ->  14 Load(1 and 27) ->  35 Load(1 and 7) ->  32 Load(0 and 7) ->  36 Load(0 and 0) ->  6 Load(1 and 0) ->  28 Load(0 and 0) ->  0 Load(0 and 0)
+Distance of the route: 318m
+
+Maximum of all routes: 339
+Problem solved in 125.004262 seconds

@@ -1,0 +1,31 @@
+Objective: 71545
+Route for vehicle 0:
+ 0 Load(0 and 0) ->  8 Load(1 and 0) ->  43 Load(0 and 0) ->  21 Load(0 and 16) ->  14 Load(1 and 16) ->  28 Load(1 and 29) ->  56 Load(1 and 13) ->  49 Load(0 and 13) ->  20 Load(0 and 21) ->  55 Load(0 and 13) ->  30 Load(0 and 25) ->  6 Load(1 and 25) ->  41 Load(0 and 25) ->  3 Load(1 and 25) ->  38 Load(0 and 25) ->  15 Load(1 and 25) ->  22 Load(1 and 31) ->  50 Load(0 and 31) ->  57 Load(0 and 25) ->  24 Load(0 and 32) ->  63 Load(0 and 19) ->  35 Load(0 and 24) ->  65 Load(0 and 12) ->  19 Load(0 and 20) ->  59 Load(0 and 13) ->  11 Load(1 and 13) ->  46 Load(0 and 13) ->  16 Load(1 and 13) ->  70 Load(1 and 8) ->  51 Load(0 and 8) ->  54 Load(0 and 0) ->  0 Load(0 and 0)
+Distance of the route: 698m
+
+Route for vehicle 1:
+ 0 Load(0 and 0) ->  12 Load(1 and 0) ->  47 Load(0 and 0) ->  29 Load(0 and 23) ->  64 Load(0 and 0) ->  7 Load(1 and 0) ->  25 Load(1 and 22) ->  60 Load(1 and 0) ->  42 Load(0 and 0) ->  4 Load(1 and 0) ->  39 Load(0 and 0) ->  0 Load(0 and 0)
+Distance of the route: 349m
+
+Route for vehicle 2:
+ 0 Load(0 and 0) ->  0 Load(0 and 0)
+Distance of the route: 0m
+
+Route for vehicle 3:
+ 0 Load(0 and 0) ->  0 Load(0 and 0)
+Distance of the route: 0m
+
+Route for vehicle 4:
+ 0 Load(0 and 0) ->  0 Load(0 and 0)
+Distance of the route: 0m
+
+Route for vehicle 5:
+ 0 Load(0 and 0) ->  0 Load(0 and 0)
+Distance of the route: 0m
+
+Route for vehicle 6:
+ 0 Load(0 and 0) ->  17 Load(1 and 0) ->  31 Load(1 and 23) ->  66 Load(1 and 0) ->  52 Load(0 and 0) ->  2 Load(1 and 0) ->  37 Load(0 and 0) ->  34 Load(0 and 9) ->  1 Load(1 and 9) ->  26 Load(1 and 18) ->  69 Load(1 and 9) ->  27 Load(1 and 23) ->  36 Load(0 and 23) ->  62 Load(0 and 9) ->  9 Load(1 and 9) ->  61 Load(1 and 0) ->  32 Load(1 and 17) ->  44 Load(0 and 17) ->  13 Load(1 and 17) ->  48 Load(0 and 17) ->  67 Load(0 and 0) ->  33 Load(0 and 9) ->  18 Load(1 and 9) ->  53 Load(0 and 9) ->  5 Load(1 and 9) ->  40 Load(0 and 9) ->  68 Load(0 and 0) ->  23 Load(0 and 18) ->  10 Load(1 and 18) ->  58 Load(1 and 0) ->  45 Load(0 and 0) ->  0 Load(0 and 0)
+Distance of the route: 698m
+
+Maximum of all routes: 698
+Problem solved in 14.566921 seconds
